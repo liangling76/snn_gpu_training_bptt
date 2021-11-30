@@ -29,7 +29,7 @@ We demonstrate the correctness of our code by comparing the results of our frame
 
 
 ## training on CIFAR
-We provide an end-to-end example for CIFAR in [snnlib_op.py](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/snnlib_op.py)
+We provide an end-to-end example on [CIFAR](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/train_test_cifar.py)
 
 ## training on ImageNet
 We provide an end-to-end example for [Alexnet](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/train_test_imagenet_alexnet_dist.py) on Imagnet.
