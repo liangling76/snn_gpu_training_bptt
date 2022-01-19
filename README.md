@@ -31,9 +31,3 @@ We demonstrate the correctness of our code by comparing the results of our frame
 ## training on CIFAR
 We provide an end-to-end example on [CIFAR](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/train_test_cifar.py)
 
-## training on ImageNet
-We provide an end-to-end example for [Alexnet](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/train_test_imagenet_alexnet_dist.py) on Imagnet.
-
-We also provide an end-to-end example for [Resnet](https://github.com/liangling76/snn_gpu_training_bptt/blob/main/snnlib/example/train_test_imagenet_resnet_dist.py) on Imagenet.
-
-These two implementations involove distributed training.
